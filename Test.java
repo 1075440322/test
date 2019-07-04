@@ -4,5 +4,6 @@
 public class Test {
     public static void main(String[] args) {
         System.out.print("11111111111111111111");
+        System.out.print("666");
     }
 }
